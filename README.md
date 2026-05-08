@@ -44,6 +44,7 @@ We compared three major algorithms to evaluate predictive performance:
 ## 📂 Repository Contents
 - `422_project_final.ipynb`: Complete source code and visualization.
 - `CSE422 Project Report.pdf`: The official final report containing detailed group info, dataset descriptions, and comparison analysis.
+- `players_data_with_all_info`: Dataset for model training-testing.
 
 ---
 *This project was completed for the CSE422 (Artificial Intelligence) course at BRAC University.*
